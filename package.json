@@ -1,0 +1,29 @@
+{
+  "name": "imdb-cli",
+  "version": "1.0.0",
+  "description": "get info of the provided movie from IMDB",
+  "main": "index.js",
+  "preferGlobal": true,
+  "dependencies": {
+    "cli-table": "^0.3.1",
+    "imdb-api": "^2.2.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/roccomuso/iot-433mhz"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "imdb",
+    "cli",
+    "movie",
+    "rating",
+    "sum",
+    "extract"
+  ],
+  "author": "Rocco Musolino",
+  "license": "ISC"
+}
