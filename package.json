@@ -1,9 +1,12 @@
 {
   "name": "imdb-cli",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "get info of the provided movie from IMDB",
   "main": "index.js",
   "preferGlobal": true,
+  "bin": {
+    "imdb-cli": "./index.js"
+  },
   "dependencies": {
     "cli-table": "^0.3.1",
     "imdb-api": "^2.2.0"
