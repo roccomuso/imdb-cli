@@ -1,6 +1,6 @@
 {
   "name": "imdb-cli",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "get info of the provided movie from IMDB",
   "main": "index.js",
   "preferGlobal": true,
@@ -13,7 +13,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/roccomuso/iot-433mhz"
+    "url": "https://github.com/roccomuso/imdb-cli"
   },
   "devDependencies": {},
   "scripts": {
