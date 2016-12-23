@@ -1,4 +1,4 @@
-#!/usr/bin/node
+#!/usr/bin/env node
 
 var imdb = require('imdb-api');
 var Table = require('cli-table');
