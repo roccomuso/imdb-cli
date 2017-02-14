@@ -3,6 +3,8 @@
 
 Node.js IMDB Command line interface to get movie info given his title.
 
+[![Standard - JavaScript Style Guide](https://cdn.rawgit.com/feross/standard/master/badge.svg)](https://github.com/feross/standard)
+
 Install with:
 
     npm install -g imdb-cli
