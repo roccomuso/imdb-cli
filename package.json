@@ -1,6 +1,6 @@
 {
   "name": "imdb-cli",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "IMDB cli interface to retrive movies info",
   "main": "index.js",
   "preferGlobal": true,
@@ -9,7 +9,7 @@
   },
   "dependencies": {
     "cli-table": "^0.3.1",
-    "imdb-api": "^2.2.0"
+    "imdb-api": "^2.2.1"
   },
   "repository": {
     "type": "git",
