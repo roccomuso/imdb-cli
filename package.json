@@ -9,7 +9,9 @@
   },
   "dependencies": {
     "cli-table": "^0.3.1",
-    "imdb-api": "^2.2.1"
+    "imdb-api": "^3.1.2",
+    "chalk": "^2.3.0",
+    "ora": "^1.3.0"
   },
   "repository": {
     "type": "git",
